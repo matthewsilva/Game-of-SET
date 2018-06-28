@@ -40,3 +40,8 @@ Running Code:
 	
 	python3 -c 'from Silva_m_set import *;  main()'
 	
+Design:
+
+	See the design documentation in "Matthew Silva CSC 110 - SET Programming Project Design.py"
+
+	
